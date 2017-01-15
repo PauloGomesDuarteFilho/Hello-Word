@@ -1,2 +1,2 @@
-# Hello-Word
+# Hello-World
 repositório de aprendizado do github
